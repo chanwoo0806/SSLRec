@@ -11,3 +11,4 @@ checkpoint/
 *.bin
 runs/
 only_test.py
+modelconf/
